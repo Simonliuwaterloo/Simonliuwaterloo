@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/40646603/132132765-857c7f05-fef8-42f8-8165-e20e7e2b2599.png" width="900">
 
 Welcome to my GitHub page!👋   
-I am a third-year software engineering student at University of Waterloo. I have a passion for developing softwares. I am currently learning distributed systems.  
+I am a third-year software engineering student at University of Waterloo. I have a passion for developing software. I am currently learning distributed systems.  
 ### My interests:
 * Running ( My 5k pace is about 4:30 in km, working to beat 4:00 this term)
 * Photography (I took the photo above at Niagara Falls)
