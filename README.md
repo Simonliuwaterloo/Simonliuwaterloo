@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-![Hi There!](https://user-images.githubusercontent.com/40646603/132130872-842e7b4f-0489-40f4-bfb5-7685b6c108fb.png)
-
+<img src="https://user-images.githubusercontent.com/40646603/132130872-842e7b4f-0489-40f4-bfb5-7685b6c108fb.png" width="900">
 <!--
 **Simonliuwaterloo/Simonliuwaterloo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
