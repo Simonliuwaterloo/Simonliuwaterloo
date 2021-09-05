@@ -1,9 +1,9 @@
 <img src="https://user-images.githubusercontent.com/40646603/132132765-857c7f05-fef8-42f8-8165-e20e7e2b2599.png" width="900">
 
-Welcome to my GitHub page!👋   
+Welcome to my GitHub homepage!👋   
 I am a third-year software engineering student at University of Waterloo. I have a passion for developing software. I am currently learning distributed systems.  
 ### My interests:
-* Running ( My 5k pace is about 4:30 in km, working to beat 4:00 this term)
+* Running ( My 5k pace is about 4:30 min per km, working to beat 4:00 this term)
 * Photography (I took the photo above at Niagara Falls)
 * Rock 'n' Roll (Pink Floyd, Dire Straits), learning to play guitar myself
 * Writing (Working on my post-apocalyptic novel right now. World-building question for you: what is a possible cause for a non-recoverable power outage in North America?)
