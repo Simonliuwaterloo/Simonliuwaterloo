@@ -2,11 +2,6 @@
 
 Welcome to my GitHub homepage!👋   
 I am a third-year software engineering student at University of Waterloo. I have a passion for developing software. I am currently learning distributed systems.  
-### My interests:
-* Running ( My 5k pace is about 4:30 min per km, working to beat 4:00 this term)
-* Photography (I took the photo above at Niagara Falls)
-* Rock 'n' Roll (Pink Floyd, Dire Straits), learning to play guitar myself
-* Writing (Working on my post-apocalyptic novel right now. World-building question for you: what is a possible cause for a non-recoverable power outage in North America?)
 
 ### Previously at:  
 <kbd>
