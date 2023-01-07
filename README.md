@@ -7,6 +7,9 @@ My Linkedin: https://www.linkedin.com/in/jianyan-simon-li-uwaterloo
 
 ### Previously at: 
 <kbd>
+  <img src="https://user-images.githubusercontent.com/40646603/211127235-a32f7d24-9a16-4f45-aafa-4ac59a597711.png" height="50">
+</kbd>
+<kbd>
   <img src="https://user-images.githubusercontent.com/40646603/166162353-9587c8ee-77ae-4500-8bf9-e426fb6a55a4.png" height="50">
 </kbd>
 <kbd>
