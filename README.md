@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/40646603/132132765-857c7f05-fef8-42f8-8165-e20e7e2b2599.png" width="900">
 
 Welcome to my GitHub homepage!👋   
-I am a fourth-year Software Engineering student at University of Waterloo. I have a passion for software development and photography. I am seeking Fall 2022 internships.
+I am a fourth-year Software Engineering student at University of Waterloo. I have a passion for software development and photography.
 
 My Linkedin: https://www.linkedin.com/in/jianyan-simon-li-uwaterloo
 
