@@ -1,5 +1,6 @@
 Welcome to my GitHub homepage!👋   
-I am a fourth-year Software Engineering student at University of Waterloo.
+Systems Software Engineer @ BlackBerry QNX
+Software Engineering @ University of Waterloo.
 
 https://www.linkedin.com/in/jianyan-simon-li-uwaterloo
 
