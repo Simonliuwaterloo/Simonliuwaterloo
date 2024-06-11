@@ -1,5 +1,4 @@
 Welcome to my GitHub homepage!👋   
-Systems Software Engineer @ BlackBerry QNX
 Software Engineering @ University of Waterloo.
 
 https://www.linkedin.com/in/jianyan-simon-li-uwaterloo
